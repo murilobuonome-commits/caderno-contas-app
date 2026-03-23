@@ -1,8 +1,8 @@
 {
   "version": "1.1.2",
   "critical": false,
-  "url": "https://github.com/murilobuonome-commits/caderno-contas-app/releases/download/v1.1.2/CadernoDeContas.exe",
-  "sha256": "C4EBF551FF3237A7AFF845C0C4D8CB99A5323171353A6C78BC2358FF5E0CF33D",
+  "url": "https://github.com/murilobuonome-commits/caderno-contas-app/releases/download/v1.1.2/CadernoDeNotas.exe",
+  "sha256": "2FAAF7284DD809226A88D3121627E0A09EB8557AB7247C07EAE6B0C137069C43",
   "notes": "🚀 NOVIDADES:\n- Novo sistema de atualização automática.\n- Gráficos com design premium.\n- Correção no fechamento do aplicativo."
 }
 
