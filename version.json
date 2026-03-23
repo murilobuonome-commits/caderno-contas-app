@@ -1,8 +1,9 @@
 {
-  "version": "1.1.3",
-  "url": "https://github.com/murilobuonome-commits/caderno-contas-app/releases/download/v1.0.2/CadernoDeContas.exe",
-  "notes": "Melhorias no sistema de nuvem e correções de bugs."
-
+  "version": "1.1.2",
+  "critical": false,
+  "url": "https://github.com/murilobuonome-commits/caderno-contas-app/releases/download/v1.1.2/main.exe",
+  "sha256": "6C91ABA6102A8B5BF9EE73B4A353D6EDB836FC055A1901AD9B94E5B495ACD1D6",
+  "notes": "🚀 NOVIDADES:\n- Novo sistema de atualização automática.\n- Gráficos com design premium.\n- Correção no fechamento do aplicativo."
 }
 
 
