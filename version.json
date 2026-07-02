@@ -1,9 +1,9 @@
 {
   "version": "1.1.3",
   "critical": false,
-  "url": "https://github.com/murilobuonome-commits/caderno-contas-app/releases/download/v.1.1.3/main.exe",
-  "sha256": "1fafc35b9cd6a572e0b391367a9568df2a085426e99dadd3fbb0e43c1bcef5f5",
-  "notes": "🚀 NOVIDADES:\n- Novo sistema de atualização automática.\n- Gráficos com design premium.\n- Correção no fechamento do aplicativo."
+  "url": "https://github.com/murilobuonome-commits/caderno-contas-app/releases/download/1.2.0/main.exe",
+  "sha256": "201462cea0601a38becc11b075650e720b087819ac85fa7e4a8b0b74fe6ff499",
+  "notes": "🚀 NOVIDADES:\n- Sistema SaaS: Agora o app suporta múltiplos usuários com Login e Cadastro;\n- Autenticação em Nuvem: Integração total com Supabase Auth e Google Login;\n- Sincronização em Tempo Real: Seus dados são salvos na nuvem automaticamente ao fechar ou sincronizar;\n- Personalização de Áudio: Sistema de volume progressivo (Fade-in) e upload de sons personalizados para alertas;\n- Simulador de Planos: Toggle para testar funcionalidades Gratuitas e Premium;\n- Motor Maestro de Parcelas: Lógica avançada para estender, reduzir ou podar séries de parcelas mantendo a 'Maternidade' (ID raiz);\n- Interface Reativa: Filtros independentes para Início, Agenda e Relatórios (Memórias isoladas);\n- Visual Premium: Efeito Marquee (texto correndo) em nomes de contas longos e novos badges de identificação (B/L);\n- Segurança SaaS: Proteção RLS (Row Level Security) garantindo que um usuário nunca veja os dados de outro;\n- Importação Profissional: Suporte a arquivos de Excel protegidos por senha (C6 Bank) e barra de progresso real na gravação;\n- Fim da Orfandade: Parcelas futuras agora mantêm vínculo inquebrável com a parcela mestre;\n- Reparo no Banco: Migração automática para adicionar 'usuario_id' em todas as tabelas existentes."
 }
 
 
