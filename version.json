@@ -2,7 +2,7 @@
   "version": "1.2.0",
   "critical": false,
   "url": "https://github.com/murilobuonome-commits/caderno-contas-app/releases/download/1.2.0/CadernoDeContas_v1.2.0.zip",
-  "sha256": "b32e75988b01139bdb714d7ae627ce9cce600e90008f604d42d42b9cd9731268",
+  "sha256": "7284d5da929b1ee083f4326ddfd68f5c3ad15fbaf346d0a380bff8417478158d",
   "notes": "🚀 NOVIDADES:\n- Sistema SaaS: Agora o app suporta múltiplos usuários com Login e Cadastro;\n- Autenticação em Nuvem: Integração total com Supabase Auth e Google Login;\n- Sincronização em Tempo Real: Seus dados são salvos na nuvem automaticamente ao fechar ou sincronizar;\n- Personalização de Áudio: Sistema de volume progressivo (Fade-in) e upload de sons personalizados para alertas;\n- Simulador de Planos: Toggle para testar funcionalidades Gratuitas e Premium;\n- Motor Maestro de Parcelas: Lógica avançada para estender, reduzir ou podar séries de parcelas mantendo a 'Maternidade' (ID raiz);\n- Interface Reativa: Filtros independentes para Início, Agenda e Relatórios (Memórias isoladas);\n- Visual Premium: Efeito Marquee (texto correndo) em nomes de contas longos e novos badges de identificação (B/L);\n- Segurança SaaS: Proteção RLS (Row Level Security) garantindo que um usuário nunca veja os dados de outro;\n- Importação Profissional: Suporte a arquivos de Excel protegidos por senha (C6 Bank) e barra de progresso real na gravação;\n- Fim da Orfandade: Parcelas futuras agora mantêm vínculo inquebrável com a parcela mestre;\n- Reparo no Banco: Migração automática para adicionar 'usuario_id' em todas as tabelas existentes."
 }
 
